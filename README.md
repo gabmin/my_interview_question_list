@@ -187,7 +187,7 @@ Cookie는 서버와 함께 전송되고, LocalStorage는 브라우저에 영구 
 ### REST API란?
 
 REST API는 자원을 URI로 표현하고, HTTP 메서드(GET, POST, PUT, DELETE 등)를 사용해 해당 자원을 처리하는 방식입니다.
-REST의 원칙을 잘 지킨 API는 RESTful API라고 하며, 자원의 이름 중심의 URL, 의미에 맞는 HTTP 메서드 사용, 무상태성 등을 특징으로 합니다.
+REST의 원칙을 잘 지킨 API는 RESTful API라고 하며, 자원의 이름 중심의 URI, 의미에 맞는 HTTP 메서드 사용, 무상태성 등을 특징으로 합니다.
 
 1. 자원의 식별: 모든 자원은 URI(Uniform Resource Identifier)로 고유하게 식별합니다.
 2. 표준 HTTP 메서드 사용: GET, POST, PUT, PATCH, DELETE
